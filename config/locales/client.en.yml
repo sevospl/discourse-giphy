@@ -1,8 +1,8 @@
 en:
   js:
     composer:
-      giphy_button_title: "Search Giphy"
+      giphy_button_title: "Szukaj plików GIF"
     giphy:
-      modal_title: "Search Giphy"
+      modal_title: "Szukaj plików GIF"
       query: "Term"
-      insert: "Insert Selected Images"
+      insert: "Wstaw zaznaczone"
